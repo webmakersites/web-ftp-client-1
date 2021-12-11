@@ -1,3 +1,4 @@
+body, input, button {font-family: roboto, arial;}
 tr { cursor: pointer; cursor: hand; }
 #fileselector {
     margin: 10px; 
